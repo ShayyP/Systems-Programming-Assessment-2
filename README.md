@@ -1,2 +1,2 @@
 # Systems Programming Assessment 2
-Graphics engine implemented in C and assembly.
+Graphics operating system implemented in C, building from the system in the first assessment.
